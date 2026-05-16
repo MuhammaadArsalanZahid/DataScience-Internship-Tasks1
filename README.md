@@ -1,4 +1,3 @@
-# DataScience-Internship-Tasks1
 # Task 1: Iris Dataset Exploration & Visualization 
 
 ## 📌 Overview
@@ -92,6 +91,7 @@ Task-1-Iris-Dataset/
 │── README.md
 
 ## ▶️ How to Run This Project
+
 1. Clone this repository:
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
@@ -99,12 +99,11 @@ Open the notebook in Jupyter Notebook or Google Colab.
 Install required libraries (if not already installed):
 pip install pandas matplotlib seaborn
 Run all notebook cells.
-📌 Internship Task Reference
 
+📌 Internship Task Reference
 This task is part of the Data Science & Analytics Internship Tasks provided by DevelopersHub Corporation.
 
 👤 Author
-
 Muhammad Arsalan Zahid
 Data Science & Analytics Intern
 DevelopersHub Corporation
