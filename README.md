@@ -1,5 +1,5 @@
 # DataScience-Internship-Tasks1
-# Task 1: Iris Dataset Exploration & Visualization 🌸
+# Task 1: Iris Dataset Exploration & Visualization 
 
 ## 📌 Overview
 This project is part of the **DevelopersHub Corporation – Data Science & Analytics Internship Tasks**.  
