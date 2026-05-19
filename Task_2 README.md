@@ -116,7 +116,7 @@ Task-2-Credit-Risk-Prediction/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/MuhammaadArsalanZahid/DataScience-and-Analytics-Internship-Tasks
+git clone https://github.com/MuhammaadArsalanZahid/DataScience-and-Analytics-Internship-Tasks.git
 2. Install required libraries
 pip install pandas matplotlib seaborn scikit-learn
 3. Run the notebook
