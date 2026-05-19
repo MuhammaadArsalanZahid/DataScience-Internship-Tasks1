@@ -96,12 +96,12 @@ The following tools and libraries were used throughout all tasks:
 
 ## 📁 Repository Structure
 DataScience-Internship-Tasks/
-│── Task1_Iris_Visualization.ipynb
-│── Task2_CreditRiskPrediction.ipynb
-│── Task3_CustomerChurnPrediction.ipynb
-│── Task4_InsuranceChargesPrediction.ipynb
-│── Task5_PersonalLoanAcceptance.ipynb
-│── README.md
+Task1_Iris_Visualization.ipynb
+Task2_CreditRiskPrediction.ipynb
+Task3_CustomerChurnPrediction.ipynb
+Task4_InsuranceChargesPrediction.ipynb
+Task5_PersonalLoanAcceptance.ipynb
+README.md
 
 
 ---
